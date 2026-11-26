@@ -217,6 +217,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [file-deletion](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/file-deletion) - Secure file deletion and data sanitization methods.
 - [metadata-extraction](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/metadata-extraction) - Extract and analyze file metadata for forensic purposes.
 - [threat-hunting-with-sigma-rules](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Use Sigma detection rules to hunt for threats and analyze security events.
+- [newsatoshi-agent-payments](https://github.com/theguysaccount/newsatoshi-commons/tree/main/skills/newsatoshi-agent-payments) - Zero-API-key multi-chain EVM smart-contract security audit (EIP-1967 proxy/admin, `owner()` risk, Sourcify v2), Bitcoin mempool oracle, Lightning BOLT-11 decoder, Base Uniswap V3 quotes, and post-quantum `x402 v2` / zero-gas SHA-256 PayWord micropayments (19 live MCP tools via `https://commons.newsatoshi.org/mcp` or `npx -y github:theguysaccount/newsatoshi-commons`).
 
 ### Assistive Technology
 
